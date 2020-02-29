@@ -1,4 +1,4 @@
-# Chinuon-docs
+# Chinuon studio
 
 
 Chinuon studio makes cool games for android,windows and web.
