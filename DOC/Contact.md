@@ -1,6 +1,6 @@
 ## Contact
 
-- [Chaitanyassr site](https://chaitanyassr.netlify.com/)
+- [Chaitanyassr WebSite](https://chaitanyassr.netlify.com/)
 - [Download Chinuon games](https://sites.google.com/view/braveknightgame/home)
 - [Gmail](chaitanyas0101@gmail.com)
 - [e-mail](chinuon@circlepanda.io)
