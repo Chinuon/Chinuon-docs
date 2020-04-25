@@ -18,4 +18,4 @@ Chinuon studio makes cool games for android,windows and web.
 
 ## Join now
 
-- [Link]()
+- [Link](https://github.com/Chaitanyassr/Chinuon-docs/blob/master/DOC/Join.md)
