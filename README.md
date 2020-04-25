@@ -15,3 +15,7 @@ Chinuon studio makes cool games for android,windows and web.
 
 - [Founder's WebSite](https://chaitanyassr.netlify.com/)
 - [Download Games](https://sites.google.com/view/braveknightgame/home)
+
+## Join now
+
+- [Link](https://github.com/Chaitanyassr/Chinuon-docs/blob/master/DOC/Join.md)
